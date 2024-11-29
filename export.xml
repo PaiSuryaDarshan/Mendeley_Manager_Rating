@@ -1,559 +1,636 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Engineering synthetic biomolecular condensates</b:Title>
-    <b:Year>2023</b:Year>
-    <b:Month>4</b:Month>
-    <b:StandardNumber>2731-6092</b:StandardNumber>
-    <b:Pages>466-480</b:Pages>
-    <b:JournalName>Nature Reviews Bioengineering</b:JournalName>
-    <b:Volume>1</b:Volume>
-    <b:Issue>7</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Yifan</b:First>
-            <b:Last>Dai</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Lingchong</b:First>
-            <b:Last>You</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Ashutosh</b:First>
-            <b:Last>Chilkoti</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>engineering-synthetic-biomolecular-condensates</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Probing and engineering liquid-phase organelles</b:Title>
-    <b:Year>2019</b:Year>
-    <b:StandardNumber>1546-1696</b:StandardNumber>
-    <b:Pages>1435-1445</b:Pages>
-    <b:JournalName>Nature Biotechnology</b:JournalName>
-    <b:Volume>37</b:Volume>
-    <b:Issue>12</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Dan</b:First>
-            <b:Last>Bracha</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Mackenzie T</b:First>
-            <b:Last>Walls</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Clifford P</b:First>
-            <b:Last>Brangwynne</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41587-019-0341-6</b:URL>
-    <b:Tag>probing-and-engineering-liquid-phase-organelles</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>A conceptual framework for understanding phase separation and addressing open questions and challenges</b:Title>
-    <b:Year>2022</b:Year>
-    <b:StandardNumber>1097-2765</b:StandardNumber>
-    <b:Pages>2201-2214</b:Pages>
-    <b:JournalName>Molecular Cell</b:JournalName>
-    <b:Volume>82</b:Volume>
-    <b:Issue>12</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Tanja</b:First>
-            <b:Last>Mittag</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Rohit V</b:First>
-            <b:Last>Pappu</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1097276522004853</b:URL>
-    <b:Tag>a-conceptual-framework-for-understanding-phase-separation-and-addressing-open-questions-and-challenges</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Learning the chemical grammar of biomolecular condensates</b:Title>
-    <b:Year>2022</b:Year>
-    <b:StandardNumber>1552-4469</b:StandardNumber>
-    <b:Pages>1298-1306</b:Pages>
-    <b:JournalName>Nature Chemical Biology</b:JournalName>
-    <b:Volume>18</b:Volume>
-    <b:Issue>12</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Henry R</b:First>
-            <b:Last>Kilgore</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Richard A</b:First>
-            <b:Last>Young</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41589-022-01046-y</b:URL>
-    <b:Tag>learning-the-chemical-grammar-of-biomolecular-condensates</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>The molecular basis for cellular function of intrinsically disordered protein regions</b:Title>
-    <b:Year>2024</b:Year>
-    <b:StandardNumber>1471-0080</b:StandardNumber>
-    <b:Pages>187-211</b:Pages>
-    <b:JournalName>Nature Reviews Molecular Cell Biology</b:JournalName>
-    <b:Volume>25</b:Volume>
-    <b:Issue>3</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Alex S</b:First>
-            <b:Last>Holehouse</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Birthe B</b:First>
-            <b:Last>Kragelund</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41580-023-00673-0</b:URL>
-    <b:Tag>the-molecular-basis-for-cellular-function-of-intrinsically-disordered-protein-regions</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Controlling synthetic membraneless organelles by a red-light-dependent singlet oxygen-generating protein</b:Title>
-    <b:Year>2022</b:Year>
-    <b:StandardNumber>2041-1723</b:StandardNumber>
-    <b:Pages>3197</b:Pages>
-    <b:JournalName>Nature Communications</b:JournalName>
-    <b:Volume>13</b:Volume>
-    <b:Issue>1</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Manjia</b:First>
-            <b:Last>Li</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Byung Min</b:First>
-            <b:Last>Park</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Xin</b:First>
-            <b:Last>Dai</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yingjie</b:First>
-            <b:Last>Xu</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Jinqing</b:First>
-            <b:Last>Huang</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Fei</b:First>
-            <b:Last>Sun</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41467-022-30933-0</b:URL>
-    <b:Tag>controlling-synthetic-membraneless-organelles-by-a-red-light-dependent-singlet-oxygen-generating-protein</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>The molecular language of membraneless organelles</b:Title>
-    <b:Year>2019</b:Year>
-    <b:Month>5</b:Month>
-    <b:StandardNumber>00219258</b:StandardNumber>
-    <b:Pages>7115-7127</b:Pages>
-    <b:JournalName>Journal of Biological Chemistry</b:JournalName>
-    <b:Volume>294</b:Volume>
-    <b:Issue>18</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Edward</b:First>
-            <b:Last>Gomes</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>James</b:First>
-            <b:Last>Shorter</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>the-molecular-language-of-membraneless-organelles</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>WNK kinases sense molecular crowding and rescue cell volume via phase separation</b:Title>
-    <b:Year>2022</b:Year>
-    <b:Month>11</b:Month>
-    <b:StandardNumber>00928674</b:StandardNumber>
-    <b:Pages>4488-4506.e20</b:Pages>
-    <b:JournalName>Cell</b:JournalName>
-    <b:Volume>185</b:Volume>
-    <b:Issue>24</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Cary R.</b:First>
-            <b:Last>Boyd-Shiwarski</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Daniel J.</b:First>
-            <b:Last>Shiwarski</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Shawn E.</b:First>
-            <b:Last>Griffiths</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Rebecca T.</b:First>
-            <b:Last>Beacham</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Logan</b:First>
-            <b:Last>Norrell</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Daryl E.</b:First>
-            <b:Last>Morrison</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Jun</b:First>
-            <b:Last>Wang</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Jacob</b:First>
-            <b:Last>Mann</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>William</b:First>
-            <b:Last>Tennant</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Eric N.</b:First>
-            <b:Last>Anderson</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Jonathan</b:First>
-            <b:Last>Franks</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Michael</b:First>
-            <b:Last>Calderon</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Kelly A.</b:First>
-            <b:Last>Connolly</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Muhammad Umar</b:First>
-            <b:Last>Cheema</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Claire J.</b:First>
-            <b:Last>Weaver</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Lubika J.</b:First>
-            <b:Last>Nkashama</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Claire C.</b:First>
-            <b:Last>Weckerly</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Katherine E.</b:First>
-            <b:Last>Querry</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Udai Bhan</b:First>
-            <b:Last>Pandey</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Christopher J.</b:First>
-            <b:Last>Donnelly</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Dandan</b:First>
-            <b:Last>Sun</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Aylin R.</b:First>
-            <b:Last>Rodan</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Arohan R.</b:First>
-            <b:Last>Subramanya</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>wnk-kinases-sense-molecular-crowding-and-rescue-cell-volume-via-phase-separation</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>BRD4-targeting PROTAC as a unique tool to study biomolecular condensates</b:Title>
-    <b:Year>2023</b:Year>
-    <b:Month>5</b:Month>
-    <b:StandardNumber>2056-5968</b:StandardNumber>
-    <b:Pages>47</b:Pages>
-    <b:JournalName>Cell Discovery</b:JournalName>
-    <b:Volume>9</b:Volume>
-    <b:Issue>1</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Yi</b:First>
-            <b:Last>Shi</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yuan</b:First>
-            <b:Last>Liao</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Qianlong</b:First>
-            <b:Last>Liu</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Zhihao</b:First>
-            <b:Last>Ni</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Zhenzhen</b:First>
-            <b:Last>Zhang</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Minglei</b:First>
-            <b:Last>Shi</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Pilong</b:First>
-            <b:Last>Li</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Haitao</b:First>
-            <b:Last>Li</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yu</b:First>
-            <b:Last>Rao</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>brd4-targeting-protac-as-a-unique-tool-to-study-biomolecular-condensates</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>generic</b:SourceType>
-    <b:Title>Physiological, Pathological, and Targetable Membraneless Organelles in Neurons</b:Title>
-    <b:Year>2019</b:Year>
-    <b:Month>10</b:Month>
-    <b:StandardNumber>1878108X</b:StandardNumber>
-    <b:Publisher>Elsevier Ltd</b:Publisher>
-    <b:Pages>693-708</b:Pages>
-    <b:JournalName>Trends in Neurosciences</b:JournalName>
-    <b:Volume>42</b:Volume>
-    <b:Issue>10</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Veronica H.</b:First>
-            <b:Last>Ryan</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Nicolas L.</b:First>
-            <b:Last>Fawzi</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>physiological,-pathological,-and-targetable-membraneless-organelles-in-neurons</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Different mechanisms of synapsin-induced vesicle clustering at inhibitory and excitatory synapses</b:Title>
-    <b:Year>2023</b:Year>
-    <b:Month>8</b:Month>
-    <b:StandardNumber>22111247</b:StandardNumber>
-    <b:Pages>113004</b:Pages>
-    <b:JournalName>Cell Reports</b:JournalName>
-    <b:Volume>42</b:Volume>
-    <b:Issue>8</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Sang-Ho</b:First>
-            <b:Last>Song</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>George J.</b:First>
-            <b:Last>Augustine</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>different-mechanisms-of-synapsin-induced-vesicle-clustering-at-inhibitory-and-excitatory-synapses</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>Polymer physics of intracellular phase transitions</b:Title>
-    <b:Year>2015</b:Year>
-    <b:Month>11</b:Month>
-    <b:StandardNumber>17452481</b:StandardNumber>
-    <b:Publisher>Nature Publishing Group</b:Publisher>
-    <b:Pages>899-904</b:Pages>
-    <b:JournalName>Nature Physics</b:JournalName>
-    <b:Volume>11</b:Volume>
-    <b:Issue>11</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Clifford P.</b:First>
-            <b:Last>Brangwynne</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Peter</b:First>
-            <b:Last>Tompa</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Rohit V.</b:First>
-            <b:Last>Pappu</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>polymer-physics-of-intracellular-phase-transitions</b:Tag>
-  </b:Source>
-  <b:Source>
-    <b:SourceType>Journal Article</b:SourceType>
-    <b:Title>The LC Domain of hnRNPA2 Adopts Similar Conformations in Hydrogel Polymers, Liquid-like Droplets, and Nuclei</b:Title>
-    <b:Year>2015</b:Year>
-    <b:Month>11</b:Month>
-    <b:StandardNumber>00928674</b:StandardNumber>
-    <b:Pages>829-839</b:Pages>
-    <b:JournalName>Cell</b:JournalName>
-    <b:Volume>163</b:Volume>
-    <b:Issue>4</b:Issue>
-    <b:Author>
-      <b:Author>
-        <b:NameList>
-          <b:Person>
-            <b:First>Siheng</b:First>
-            <b:Last>Xiang</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Masato</b:First>
-            <b:Last>Kato</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Leeju C.</b:First>
-            <b:Last>Wu</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yi</b:First>
-            <b:Last>Lin</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Ming</b:First>
-            <b:Last>Ding</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yajie</b:First>
-            <b:Last>Zhang</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Yonghao</b:First>
-            <b:Last>Yu</b:Last>
-          </b:Person>
-          <b:Person>
-            <b:First>Steven L.</b:First>
-            <b:Last>McKnight</b:Last>
-          </b:Person>
-        </b:NameList>
-      </b:Author>
-      <b:Editor>
-        <b:NameList>
-        </b:NameList>
-      </b:Editor>
-    </b:Author>
-    <b:Tag>the-lc-domain-of-hnrnpa2-adopts-similar-conformations-in-hydrogel-polymers,-liquid-like-droplets,-and-nuclei</b:Tag>
-  </b:Source>
-</b:Sources>
+<xml>
+  <records>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Dai, Yifan
+          </author>
+          <author>
+            You, Lingchong
+          </author>
+          <author>
+            Chilkoti, Ashutosh
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Engineering synthetic biomolecular condensates</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>1</volume>
+      <pages>466-480</pages>
+      <issue>7</issue>
+      <electronic-resource-num>10.1038&#x2F;s44222-023-00052-6</electronic-resource-num>
+      <periodical><full-title>Nature Reviews Bioengineering</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Bracha, Dan
+          </author>
+          <author>
+            Walls, Mackenzie T
+          </author>
+          <author>
+            Brangwynne, Clifford P
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Probing and engineering liquid-phase organelles</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+      </dates>
+      <volume>37</volume>
+      <pages>1435-1445</pages>
+      <issue>12</issue>
+      <electronic-resource-num>10.1038&#x2F;s41587-019-0341-6</electronic-resource-num>
+      <abstract>Cells compartmentalize their intracellular environment to orchestrate countless simultaneous biochemical processes. Many intracellular tasks rely on membrane-less organelles, multicomponent condensates that assemble by liquid–liquid phase separation. A decade of intensive research has provided a basic understanding of the biomolecular driving forces underlying the form and function of such organelles. Here we review the technologies enabling these developments, along with approaches to designing spatiotemporally actuated organelles based on multivalent low-affinity interactions. With these recent advances, it is now becoming possible both to modulate the properties of native condensates and to engineer entirely new structures, with the potential for widespread biomedical and biotechnological applications.</abstract>
+      <periodical><full-title>Nature Biotechnology</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41587-019-0341-6</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Mittag, Tanja
+          </author>
+          <author>
+            Pappu, Rohit V
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>A conceptual framework for understanding phase separation and addressing open questions and challenges</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+      </dates>
+      <volume>82</volume>
+      <pages>2201-2214</pages>
+      <issue>12</issue>
+      <electronic-resource-num>https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.molcel.2022.05.018</electronic-resource-num>
+      <abstract>Summary
+Macromolecular phase separation is being recognized for its potential importance and relevance as a driver of spatial organization within cells. Here, we describe a framework based on synergies between networking (percolation or gelation) and density (phase separation) transitions. Accordingly, the phase transitions in question are referred to as phase separation coupled to percolation (PSCP). The condensates that result from PSCP are viscoelastic network fluids. Such systems have sequence-, composition-, and topology-specific internal network structures that give rise to time-dependent interplays between viscous and elastic properties. Unlike pure phase separation, the process of PSCP gives rise to sequence-, chemistry-, and structure-specific distributions of clusters that can form at concentrations that lie well below the threshold concentration for phase separation. PSCP, influenced by specific versus solubility-determining interactions, also provides a bridge between different observations and helps answer questions and address challenges that have arisen regarding the role of macromolecular phase separation in biology.</abstract>
+      <periodical><full-title>Molecular Cell</full-title></periodical>
+      <keywords>
+        <keyword>associative polymers</keyword>
+        <keyword>biomolecular condensate</keyword>
+        <keyword>biophysics</keyword>
+        <keyword>cell biology</keyword>
+        <keyword>cluster</keyword>
+        <keyword>membraneless organelle</keyword>
+        <keyword>network fluid</keyword>
+        <keyword>percolation</keyword>
+        <keyword>phase separation</keyword>
+        <keyword>saturation concentration</keyword>
+        <keyword>viscoelasticity</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1097276522004853</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Kilgore, Henry R
+          </author>
+          <author>
+            Young, Richard A
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Learning the chemical grammar of biomolecular condensates</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+      </dates>
+      <volume>18</volume>
+      <pages>1298-1306</pages>
+      <issue>12</issue>
+      <electronic-resource-num>10.1038&#x2F;s41589-022-01046-y</electronic-resource-num>
+      <abstract>Biomolecular condensates compartmentalize and regulate assemblies of biomolecules engaged in vital physiological processes in cells. Specific proteins and nucleic acids engaged in shared functions occur in any one kind of condensate, suggesting that these compartments have distinct chemical specificities. Indeed, some small-molecule drugs concentrate in specific condensates due to chemical properties engendered by particular amino acids in the proteins in those condensates. Here we argue that the chemical properties that govern molecular interactions between a small molecule and biomolecules within a condensate can be ascertained for both the small molecule and the biomolecules. We propose that learning this ‘chemical grammar’, the rules describing the chemical features of small molecules that engender attraction or repulsion by the physicochemical environment of a specific condensate, should enable design of drugs with improved efficacy and reduced toxicity.</abstract>
+      <periodical><full-title>Nature Chemical Biology</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41589-022-01046-y</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Holehouse, Alex S
+          </author>
+          <author>
+            Kragelund, Birthe B
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The molecular basis for cellular function of intrinsically disordered protein regions</title>
+      </titles>
+      <dates>
+        <year>2024</year>
+      </dates>
+      <volume>25</volume>
+      <pages>187-211</pages>
+      <issue>3</issue>
+      <electronic-resource-num>10.1038&#x2F;s41580-023-00673-0</electronic-resource-num>
+      <abstract>Intrinsically disordered protein regions exist in a collection of dynamic interconverting conformations that lack a stable 3D structure. These regions are structurally heterogeneous, ubiquitous and found across all kingdoms of life. Despite the absence of a defined 3D structure, disordered regions are essential for cellular processes ranging from transcriptional control and cell signalling to subcellular organization. Through their conformational malleability and adaptability, disordered regions extend the repertoire of macromolecular interactions and are readily tunable by their structural and chemical context, making them ideal responders to regulatory cues. Recent work has led to major advances in understanding the link between protein sequence and conformational behaviour in disordered regions, yet the link between sequence and molecular function is less well defined. Here we consider the biochemical and biophysical foundations that underlie how and why disordered regions can engage in productive cellular functions, provide examples of emerging concepts and discuss how protein disorder contributes to intracellular information processing and regulation of cellular function.</abstract>
+      <periodical><full-title>Nature Reviews Molecular Cell Biology</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41580-023-00673-0</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Li, Manjia
+          </author>
+          <author>
+            Park, Byung Min
+          </author>
+          <author>
+            Dai, Xin
+          </author>
+          <author>
+            Xu, Yingjie
+          </author>
+          <author>
+            Huang, Jinqing
+          </author>
+          <author>
+            Sun, Fei
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Controlling synthetic membraneless organelles by a red-light-dependent singlet oxygen-generating protein</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+      </dates>
+      <volume>13</volume>
+      <pages>3197</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41467-022-30933-0</electronic-resource-num>
+      <abstract>Membraneless organelles (MLOs) formed via protein phase separation have great implications for both physiological and pathological processes. However, the inability to precisely control the bioactivities of MLOs has hindered our understanding of their roles in biology, not to mention their translational applications. Here, by combining intrinsically disordered domains such as RGG and mussel-foot proteins, we create an in cellulo protein phase separation system, of which various biological activities can be introduced via metal-mediated protein immobilization and further controlled by the water-soluble chlorophyll protein (WSCP)—a remarkably stable, red-light-responsive singlet oxygen generator. The WSCP-laden protein condensates undergo a liquid-to-solid phase transition on light exposure, due to oxidative crosslinking, providing a means to control catalysis within synthetic MLOs. Moreover, these photoresponsive condensates, which retain the light-induced phase-transition behavior in living cells, exhibit marked membrane localization, reminiscent of the semi-membrane-bound compartments like postsynaptic densities in nervous systems. Together, this engineered system provides an approach toward controllable synthetic MLOs and, alongside its light-induced phase transition, may well serve to emulate and explore the aging process at the subcellular or even molecular level.</abstract>
+      <periodical><full-title>Nature Communications</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41467-022-30933-0</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Gomes, Edward
+          </author>
+          <author>
+            Shorter, James
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The molecular language of membraneless organelles</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>5</date>
+          </pub-dates>
+      </dates>
+      <volume>294</volume>
+      <pages>7115-7127</pages>
+      <issue>18</issue>
+      <electronic-resource-num>10.1074&#x2F;jbc.TM118.001192</electronic-resource-num>
+      <periodical><full-title>Journal of Biological Chemistry</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Boyd-Shiwarski, Cary R.
+          </author>
+          <author>
+            Shiwarski, Daniel J.
+          </author>
+          <author>
+            Griffiths, Shawn E.
+          </author>
+          <author>
+            Beacham, Rebecca T.
+          </author>
+          <author>
+            Norrell, Logan
+          </author>
+          <author>
+            Morrison, Daryl E.
+          </author>
+          <author>
+            Wang, Jun
+          </author>
+          <author>
+            Mann, Jacob
+          </author>
+          <author>
+            Tennant, William
+          </author>
+          <author>
+            Anderson, Eric N.
+          </author>
+          <author>
+            Franks, Jonathan
+          </author>
+          <author>
+            Calderon, Michael
+          </author>
+          <author>
+            Connolly, Kelly A.
+          </author>
+          <author>
+            Cheema, Muhammad Umar
+          </author>
+          <author>
+            Weaver, Claire J.
+          </author>
+          <author>
+            Nkashama, Lubika J.
+          </author>
+          <author>
+            Weckerly, Claire C.
+          </author>
+          <author>
+            Querry, Katherine E.
+          </author>
+          <author>
+            Pandey, Udai Bhan
+          </author>
+          <author>
+            Donnelly, Christopher J.
+          </author>
+          <author>
+            Sun, Dandan
+          </author>
+          <author>
+            Rodan, Aylin R.
+          </author>
+          <author>
+            Subramanya, Arohan R.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>WNK kinases sense molecular crowding and rescue cell volume via phase separation</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>185</volume>
+      <pages>4488-4506.e20</pages>
+      <issue>24</issue>
+      <electronic-resource-num>10.1016&#x2F;j.cell.2022.09.042</electronic-resource-num>
+      <periodical><full-title>Cell</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Shi, Yi
+          </author>
+          <author>
+            Liao, Yuan
+          </author>
+          <author>
+            Liu, Qianlong
+          </author>
+          <author>
+            Ni, Zhihao
+          </author>
+          <author>
+            Zhang, Zhenzhen
+          </author>
+          <author>
+            Shi, Minglei
+          </author>
+          <author>
+            Li, Pilong
+          </author>
+          <author>
+            Li, Haitao
+          </author>
+          <author>
+            Rao, Yu
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>BRD4-targeting PROTAC as a unique tool to study biomolecular condensates</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>5</date>
+          </pub-dates>
+      </dates>
+      <volume>9</volume>
+      <pages>47</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41421-023-00544-0</electronic-resource-num>
+      <abstract>&lt;p&gt;Biomolecular condensates play key roles in various biological processes. However, specific condensation modulators are currently lacking. PROTAC is a new technology that can use small molecules to degrade target proteins specifically. PROTAC molecules are expected to regulate biomolecular condensates dynamically by degrading&#x2F;recovering key molecules in biomolecular condensates. In this study, we employed a BRD4-targeting PROTAC molecule to regulate the super-enhancer (SE) condensate and monitored the changes of SE condensate under PROTAC treatment using live-cell imaging and high-throughput sequencing technologies. As a result, we found that BRD4-targeting PROTACs can significantly reduce the BRD4 condensates, and we established a quantitative method for tracking BRD4 condensates by PROTAC and cellular imaging. Surprisingly and encouragingly, BRD4 condensates were observed to preferentially form and play specialized roles in biological process regulation for the first time. Additionally, BRD4 PROTAC makes it possible to observe the dynamics of other condensate components under the continued disruption of BRD4 condensates. Together, these results shed new light on research methods for liquid-liquid phase separation (LLPS), and specifically demonstrate that PROTAC presents a powerful and distinctive tool for the study of biomolecular condensates.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Cell Discovery</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="generic"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Ryan, Veronica H.
+          </author>
+          <author>
+            Fawzi, Nicolas L.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Physiological, Pathological, and Targetable Membraneless Organelles in Neurons</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>42</volume>
+      <pages>693-708</pages>
+      <issue>10</issue>
+      <accession-num>31493925</accession-num>
+      <electronic-resource-num>10.1016&#x2F;j.tins.2019.08.005</electronic-resource-num>
+      <abstract>Neurons require unique subcellular compartmentalization to function efficiently. Formed from proteins and RNAs through liquid–liquid phase separation, membraneless organelles (MLOs) have emerged as one way in which cells form distinct, specialized compartments in the absence of lipid membranes. We first discuss MLOs that are common to many cell types as well as those that are specific to neurons. Interestingly, many proteins associated with neurodegenerative disease are found in MLOs, particularly in stress and transport granules. We next review possible links between neurodegeneration and MLOs, and the hypothesis that the protein and RNA inclusions formed in disease are related to the functional complexes occurring inside these MLOs. Finally, we discuss the hypothesis that protein post-translational modifications (PTMs), which can alter phase separation, can modulate MLO formation and provide potential new therapeutic strategies for currently untreatable neurodegenerative diseases.</abstract>
+      <publisher>Elsevier Ltd</publisher>
+      <periodical><full-title>Trends in Neurosciences</full-title></periodical>
+      <keywords>
+        <keyword>LLPS</keyword>
+        <keyword>RNA&#x2F;RNP granule</keyword>
+        <keyword>membraneless organelle</keyword>
+        <keyword>neurodegeneration</keyword>
+        <keyword>post-translational modification</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Song, Sang-Ho
+          </author>
+          <author>
+            Augustine, George J.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Different mechanisms of synapsin-induced vesicle clustering at inhibitory and excitatory synapses</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>8</date>
+          </pub-dates>
+      </dates>
+      <volume>42</volume>
+      <pages>113004</pages>
+      <issue>8</issue>
+      <electronic-resource-num>10.1016&#x2F;j.celrep.2023.113004</electronic-resource-num>
+      <periodical><full-title>Cell Reports</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Brangwynne, Clifford P.
+          </author>
+          <author>
+            Tompa, Peter
+          </author>
+          <author>
+            Pappu, Rohit V.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Polymer physics of intracellular phase transitions</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>11</volume>
+      <pages>899-904</pages>
+      <issue>11</issue>
+      <electronic-resource-num>10.1038&#x2F;nphys3532</electronic-resource-num>
+      <abstract>Intracellular organelles are either membrane-bound vesicles or membrane-less compartments that are made up of proteins and RNA. These organelles play key biological roles, by compartmentalizing the cell to enable spatiotemporal control of biological reactions. Recent studies suggest that membrane-less intracellular compartments are multicomponent viscous liquid droplets that form via phase separation. Proteins that have an intrinsic tendency for being conformationally heterogeneous seem to be the main drivers of liquid-liquid phase separation in the cell. These findings highlight the relevance of classical concepts from the physics of polymeric phase transitions for understanding the assembly of intracellular membrane-less compartments. However, applying these concepts is challenging, given the heteropolymeric nature of protein sequences, the complex intracellular environment, and non-equilibrium features intrinsic to cells. This provides new opportunities for adapting established theories and for the emergence of new physics.</abstract>
+      <publisher>Nature Publishing Group</publisher>
+      <periodical><full-title>Nature Physics</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Xiang, Siheng
+          </author>
+          <author>
+            Kato, Masato
+          </author>
+          <author>
+            Wu, Leeju C.
+          </author>
+          <author>
+            Lin, Yi
+          </author>
+          <author>
+            Ding, Ming
+          </author>
+          <author>
+            Zhang, Yajie
+          </author>
+          <author>
+            Yu, Yonghao
+          </author>
+          <author>
+            McKnight, Steven L.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The LC Domain of hnRNPA2 Adopts Similar Conformations in Hydrogel Polymers, Liquid-like Droplets, and Nuclei</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>163</volume>
+      <pages>829-839</pages>
+      <issue>4</issue>
+      <electronic-resource-num>10.1016&#x2F;j.cell.2015.10.040</electronic-resource-num>
+      <periodical><full-title>Cell</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Mittag, Tanja
+          </author>
+          <author>
+            Pappu, Rohit V.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>A conceptual framework for understanding phase separation and addressing open questions and challenges</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>6</date>
+          </pub-dates>
+      </dates>
+      <volume>82</volume>
+      <pages>2201-2214</pages>
+      <issue>12</issue>
+      <electronic-resource-num>10.1016&#x2F;j.molcel.2022.05.018</electronic-resource-num>
+      <periodical><full-title>Molecular Cell</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+  </records>
+</xml>
