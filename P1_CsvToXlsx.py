@@ -14,7 +14,7 @@ filename = "Reading_Ratings.xlsx"
 
 workbook = load_workbook(filename) 
   
-# Get the first sheet 
+# Get the first sheet
 sheet = workbook.worksheets[0] 
 
 # Grab all tables on the sheet
@@ -29,6 +29,9 @@ toi = tables[0]
 # Adjust table size to match csv | (+1) to value to prevent overwriting of Header Row
 Rows_of_Dataset = len(df)
 toi.ref = f"A1:F{Rows_of_Dataset + 1}"
+
+# Add CSV data to excel file
+#TODO: Remember to i) Check for duplicates, ii) Auto-modiy 'S.No' if Cell.ref != 'A1'
 
 workbook.save(filename)
 
