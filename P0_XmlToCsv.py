@@ -49,12 +49,13 @@ for record in root[0]:
     rows.append(row)
 
 df = pd.DataFrame(rows, columns=cols)
-df.to_excel("new.xlsx", index=False)
+df.to_csv("new.csv", index=False)
 print(df)
 
 # Append values to Main Excel
+filename = "Reading_Ratings.xlsx"
 
-workbook = openpyxl.load_workbook("Reading_Ratings.xlsx") 
+workbook = openpyxl.load_workbook(filename) 
   
 # Get the first sheet 
 sheet = workbook.worksheets[0] 
@@ -75,7 +76,11 @@ for column in sheet.iter_cols():
             names.append(cell.value) 
 
 for index, title in enumerate(df['Title']):
-    if title not in names:
-        sheet.append(df.values[index])
-    else:
+    if title in names:
         pass
+    else:
+# ! Fix this - Last step, adding non-duplicate items to table... ERRO: df.values returns 'munpy.ndarray' instead of 'list'
+        print(index)
+        new_value = df.values[index]
+        print(new_value)
+        sheet.append(new_value)
