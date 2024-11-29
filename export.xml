@@ -6,6 +6,63 @@
       <contributors>
         <authors>
           <author>
+            Yang, Li
+          </author>
+          <author>
+            Nian, Shifeng
+          </author>
+          <author>
+            Zhang, Guozhen
+          </author>
+          <author>
+            Sharman, Edward
+          </author>
+          <author>
+            Miao, Hui
+          </author>
+          <author>
+            Zhang, Xuepeng
+          </author>
+          <author>
+            Chen, Xiaofeng
+          </author>
+          <author>
+            Luo, Yi
+          </author>
+          <author>
+            Jiang, Jun
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Role of Hydrogen Bonding in Green Fluorescent Protein-like Chromophore Emission</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>8</date>
+          </pub-dates>
+      </dates>
+      <volume>9</volume>
+      <pages>11640</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41598-019-47660-0</electronic-resource-num>
+      <abstract>&lt;p&gt;The fluorescence emission from green fluorescent protein (GFP) is known to be heavily influenced by hydrogen bonding between the core fluorophore and the surrounding side chains or water molecules. Yet how to utilize this feature for modulating the fluorescence of GFP chromophore or GFP-like fluorophore still remains elusive. Here we present theoretical calculations to predict how hydrogen bonding could influence the excited states of the GFP-like fluorophores. These studies provide both a new perspective for understanding the photophysical properties of GFP as well as a solid basis for the rational design of GFP-based fluorophores.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Scientific Reports</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
             Dai, Yifan
           </author>
           <author>
@@ -73,52 +130,6 @@
       <urls>
         <related-urls>
           <url>https:&#x2F;&#x2F;doi.org&#x2F;10.1038&#x2F;s41587-019-0341-6</url>
-        </related-urls>
-      </urls>
-    </record>
-    <record>
-      <ref-type name="Journal Article"></ref-type>
-      <contributors>
-        <authors>
-          <author>
-            Mittag, Tanja
-          </author>
-          <author>
-            Pappu, Rohit V
-          </author>
-        </authors>
-        <secondary-authors>
-        </secondary-authors>
-      </contributors>
-      <titles>
-        <title>A conceptual framework for understanding phase separation and addressing open questions and challenges</title>
-      </titles>
-      <dates>
-        <year>2022</year>
-      </dates>
-      <volume>82</volume>
-      <pages>2201-2214</pages>
-      <issue>12</issue>
-      <electronic-resource-num>https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.molcel.2022.05.018</electronic-resource-num>
-      <abstract>Summary
-Macromolecular phase separation is being recognized for its potential importance and relevance as a driver of spatial organization within cells. Here, we describe a framework based on synergies between networking (percolation or gelation) and density (phase separation) transitions. Accordingly, the phase transitions in question are referred to as phase separation coupled to percolation (PSCP). The condensates that result from PSCP are viscoelastic network fluids. Such systems have sequence-, composition-, and topology-specific internal network structures that give rise to time-dependent interplays between viscous and elastic properties. Unlike pure phase separation, the process of PSCP gives rise to sequence-, chemistry-, and structure-specific distributions of clusters that can form at concentrations that lie well below the threshold concentration for phase separation. PSCP, influenced by specific versus solubility-determining interactions, also provides a bridge between different observations and helps answer questions and address challenges that have arisen regarding the role of macromolecular phase separation in biology.</abstract>
-      <periodical><full-title>Molecular Cell</full-title></periodical>
-      <keywords>
-        <keyword>associative polymers</keyword>
-        <keyword>biomolecular condensate</keyword>
-        <keyword>biophysics</keyword>
-        <keyword>cell biology</keyword>
-        <keyword>cluster</keyword>
-        <keyword>membraneless organelle</keyword>
-        <keyword>network fluid</keyword>
-        <keyword>percolation</keyword>
-        <keyword>phase separation</keyword>
-        <keyword>saturation concentration</keyword>
-        <keyword>viscoelasticity</keyword>
-      </keywords>
-      <urls>
-        <related-urls>
-          <url>https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1097276522004853</url>
         </related-urls>
       </urls>
     </record>

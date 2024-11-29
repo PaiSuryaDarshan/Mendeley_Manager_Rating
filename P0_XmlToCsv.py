@@ -9,12 +9,12 @@ def UpdateCSV():
     root = tree.getroot()
 
     # Root - Test
-    print(root[0].tag)
-    print(len(root[0]))
+    # print(root[0].tag)
+    # print(len(root[0]))
 
 
     # List collecting data
-    cols = ["S.No", "Year", "Title", "Author", "DOI"]
+    cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract", "Graphical abstract"]
     rows = []
 
     # Loop over Root Children till core of interest is reached
@@ -25,9 +25,15 @@ def UpdateCSV():
         title = "" 
         author = "" 
         doi = ""
+        abstract = ""
         for items in record:
+
             if items.tag == 'electronic-resource-num':
                 doi = 'https://doi.org/' + items.text
+
+            if items.tag == 'abstract':
+                abstract = items.text
+
             for titles in items:
                 if titles.tag == 'title':
                     title = titles.text
@@ -46,6 +52,12 @@ def UpdateCSV():
         row.append(title)
         row.append(author)
         row.append(doi)
+        row.append(0)
+        row.append(0)
+        row.append(0)
+        row.append(0)
+        row.append(abstract)
+        row.append(" ")
 
         rows.append(row)
 
