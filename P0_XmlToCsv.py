@@ -50,37 +50,3 @@ for record in root[0]:
 
 df = pd.DataFrame(rows, columns=cols)
 df.to_csv("new.csv", index=False)
-print(df)
-
-# Append values to Main Excel
-filename = "Reading_Ratings.xlsx"
-
-workbook = openpyxl.load_workbook(filename) 
-  
-# Get the first sheet 
-sheet = workbook.worksheets[0] 
-
-# Create a list to store the values 
-names = [] 
-  
-# Iterate through columns 
-for column in sheet.iter_cols(): 
-    # Get the value of the first cell in the 
-    # column (the cell with the column name) 
-    column_name = column[0].value 
-    # Check if the column is the "Name" column 
-    if column_name == "Title": 
-        # Iterate over the cells in the column 
-        for cell in column: 
-            # Add the value of the cell to the list 
-            names.append(cell.value) 
-
-for index, title in enumerate(df['Title']):
-    if title in names:
-        pass
-    else:
-# ! Fix this - Last step, adding non-duplicate items to table... ERRO: df.values returns 'munpy.ndarray' instead of 'list'
-        print(index)
-        new_value = df.values[index]
-        print(new_value)
-        sheet.append(new_value)
