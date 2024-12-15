@@ -586,5 +586,40 @@
         </related-urls>
       </urls>
     </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Pyne, Partha
+          </author>
+          <author>
+            Mitra, Rajib Kumar
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Excipients Do Regulate Phase Separation in Lysozyme and Thus Also Its Hydration</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>1</date>
+          </pub-dates>
+      </dates>
+      <volume>13</volume>
+      <pages>931-938</pages>
+      <issue>3</issue>
+      <electronic-resource-num>10.1021&#x2F;acs.jpclett.1c03449</electronic-resource-num>
+      <periodical><full-title>The Journal of Physical Chemistry Letters</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
   </records>
 </xml>
