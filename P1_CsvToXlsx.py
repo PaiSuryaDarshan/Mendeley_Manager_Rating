@@ -1,5 +1,6 @@
 from openpyxl import load_workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
+from openpyxl.styles import Font
 from copy import deepcopy
 import pandas as pd
 import numpy as np
@@ -28,6 +29,9 @@ for table in sheet.tables.values():
 # Grab loc and style of table of interest (TOI)
 toi = tables[0]
 style = deepcopy(toi.tableStyleInfo)
+
+# Set font style Variable
+fontStyle = Font(size = "20")
 
 # Add CSV data to excel file
 # BUG FIX 3: Reset 'max_rows' from "max rows on sheet" to "max rows on sheet with data" 
@@ -65,7 +69,11 @@ toi.ref = f"A1:K{Rows_of_Dataset + 1}"                                      #^ F
 toi.name = "Table"                                                          #^ File Edit
 
 # BUG FIX 2: Integers in table number 10 to cause problems when processing in Microsoft Excel, therefore, table name was adapted to avoid Integers.
-toi.tableStyleInfo = style                                                  #^ File Edit
+for cells in sheet[f"A1:K{Rows_of_Dataset + 1}"]:                            #^ File Edit
+    for cell in cells:
+        cell.font = fontStyle     
+
+toi.tableStyleInfo = style                                              #^ File Edit
 
 workbook.save(filename)
 

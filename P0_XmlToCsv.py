@@ -14,7 +14,7 @@ def UpdateCSV():
 
 
     # List collecting data
-    cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract", "Graphical abstract"]
+    cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract", "Custom Summary"]
     rows = []
 
     # Loop over Root Children till core of interest is reached
@@ -26,6 +26,8 @@ def UpdateCSV():
         author = "" 
         doi = ""
         abstract = ""
+        drive_summary = " "
+
         for items in record:
 
             if items.tag == 'electronic-resource-num':
@@ -47,6 +49,7 @@ def UpdateCSV():
                     if title_data.tag == 'author':
                         author = title_data.text.strip()
                         break
+
         row.append(Sno)
         row.append(year)
         row.append(title)
@@ -57,7 +60,7 @@ def UpdateCSV():
         row.append(0)
         row.append(0)
         row.append(abstract)
-        row.append(" ")
+        row.append(drive_summary)
 
         rows.append(row)
 

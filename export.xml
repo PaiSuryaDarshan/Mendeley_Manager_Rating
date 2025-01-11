@@ -621,5 +621,83 @@
         </related-urls>
       </urls>
     </record>
+    <record>
+      <ref-type name="book_section"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Bekkers, John M.
+          </author>
+          <author>
+            Stevens, Charles F.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Chapter 3 Chapter Two different ways evolution makes neurons larger</title>
+      </titles>
+      <dates>
+        <year>1990</year>
+      </dates>
+      <pages>37-45</pages>
+      <electronic-resource-num>10.1016&#x2F;S0079-6123(08)61239-X</electronic-resource-num>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Kim, Goeun
+          </author>
+          <author>
+            Lee, Sang-Eun
+          </author>
+          <author>
+            Jeong, Seonyoung
+          </author>
+          <author>
+            Lee, Jeongkun
+          </author>
+          <author>
+            Park, Daehun
+          </author>
+          <author>
+            Chang, Sunghoe
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Multivalent electrostatic pi–cation interaction between synaptophysin and synapsin is responsible for the coacervation</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>14</volume>
+      <pages>137</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1186&#x2F;s13041-021-00846-y</electronic-resource-num>
+      <abstract>&lt;p&gt; We recently showed that synaptophysin (Syph) and synapsin (Syn) can induce liquid–liquid phase separation (LLPS) to cluster small synaptic-like microvesicles in living cells which are highly reminiscent of SV cluster. However, as there is no physical interaction between them, the underlying mechanism for their coacervation remains unknown. Here, we showed that the coacervation between Syph and Syn is primarily governed by multivalent &lt;italic&gt;pi&lt;&#x2F;italic&gt; –cation electrostatic interactions among tyrosine residues of Syph C-terminal (Ct) and positively charged Syn. We found that Syph Ct is intrinsically disordered and it alone can form liquid droplets by interactions among themselves at high concentration in a crowding environment in vitro or when assisted by additional interactions by tagging with light-sensitive CRY2PHR or subunits of a multimeric protein in living cells. Syph Ct contains 10 repeated sequences, 9 of them start with tyrosine, and mutating 9 tyrosine to serine (9YS) completely abolished the phase separating property of Syph Ct, indicating tyrosine-mediated &lt;italic&gt;pi&lt;&#x2F;italic&gt; -interactions are critical. We further found that 9YS mutation failed to coacervate with Syn, and since 9YS retains Syph’s negative charge, the results indicate that &lt;italic&gt;pi&lt;&#x2F;italic&gt; –cation interactions rather than simple charge interactions are responsible for their coacervation. In addition to revealing the underlying mechanism of Syph and Syn coacervation, our results also raise the possibility that physiological regulation of &lt;italic&gt;pi&lt;&#x2F;italic&gt; –cation interactions between Syph and Syn during synaptic activity may contribute to the dynamics of synaptic vesicle clustering. &lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Molecular Brain</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1CIETW_-xPlDzAjodx7DQao6gCcCaeOFC0w8z0v_Uv5M&#x2F;edit?usp&#x3D;drive_link</url>
+        </related-urls>
+      </urls>
+    </record>
   </records>
 </xml>
