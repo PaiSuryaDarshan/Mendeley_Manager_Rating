@@ -14,7 +14,8 @@ def UpdateCSV():
 
 
     # List collecting data
-    cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract", "Custom Summary"]
+    cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract"]
+    # cols = ["S.No", "Year", "Title", "Author", "DOI", "", "", "", "", "Abstract", "Custom Summary"]
     rows = []
 
     # Loop over Root Children till core of interest is reached
@@ -26,7 +27,7 @@ def UpdateCSV():
         author = "" 
         doi = ""
         abstract = ""
-        drive_summary = " "
+        # drive_summary = " "
 
         for items in record:
 
@@ -60,7 +61,7 @@ def UpdateCSV():
         row.append(0)
         row.append(0)
         row.append(abstract)
-        row.append(drive_summary)
+        # row.append(drive_summary)
 
         rows.append(row)
 
