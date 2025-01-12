@@ -699,5 +699,597 @@
         </related-urls>
       </urls>
     </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Kim, Jee Hae
+          </author>
+          <author>
+            Liao, Dezhi
+          </author>
+          <author>
+            Lau, Lit-Fui
+          </author>
+          <author>
+            Huganir, Richard L
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>SynGAP: a Synaptic RasGAP that Associates with the PSD-95&#x2F;SAP90 Protein Family</title>
+      </titles>
+      <dates>
+        <year>1998</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>20</volume>
+      <pages>683-691</pages>
+      <issue>4</issue>
+      <electronic-resource-num>10.1016&#x2F;S0896-6273(00)81008-9</electronic-resource-num>
+      <periodical><full-title>Neuron</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Araki, Yoichi
+          </author>
+          <author>
+            Rajkovich, Kacey E.
+          </author>
+          <author>
+            Gerber, Elizabeth E.
+          </author>
+          <author>
+            Gamache, Timothy R.
+          </author>
+          <author>
+            Johnson, Richard C.
+          </author>
+          <author>
+            Tran, Thanh Hai N.
+          </author>
+          <author>
+            Liu, Bian
+          </author>
+          <author>
+            Zhu, Qianwen
+          </author>
+          <author>
+            Hong, Ingie
+          </author>
+          <author>
+            Kirkwood, Alfredo
+          </author>
+          <author>
+            Huganir, Richard
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>SynGAP regulates synaptic plasticity and cognition independently of its catalytic activity</title>
+      </titles>
+      <dates>
+        <year>2024</year>
+          <pub-dates>
+            <date>3</date>
+          </pub-dates>
+      </dates>
+      <volume>383</volume>
+      <issue>6686</issue>
+      <electronic-resource-num>10.1126&#x2F;science.adk1291</electronic-resource-num>
+      <abstract>&lt;p&gt; SynGAP is an abundant synaptic GTPase-activating protein (GAP) critical for synaptic plasticity, learning, memory, and cognition. Mutations in &lt;italic&gt;SYNGAP1&lt;&#x2F;italic&gt; in humans result in intellectual disability, autistic-like behaviors, and epilepsy. Heterozygous &lt;italic&gt;Syngap1&lt;&#x2F;italic&gt; -knockout mice display deficits in synaptic plasticity, learning, and memory and exhibit seizures. It is unclear whether SynGAP imparts structural properties at synapses independently of its GAP activity. Here, we report that inactivating mutations within the GAP domain do not inhibit synaptic plasticity or cause behavioral deficits. Instead, SynGAP modulates synaptic strength by physically competing with the AMPA-receptor-TARP excitatory receptor complex in the formation of molecular condensates with synaptic scaffolding proteins. These results have major implications for developing therapeutic treatments for &lt;italic&gt;SYNGAP1&lt;&#x2F;italic&gt; -related neurodevelopmental disorders. &lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Science</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Caya-Bissonnette, Léa
+          </author>
+          <author>
+            Béïque, Jean-Claude
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Half a century legacy of long-term potentiation</title>
+      </titles>
+      <dates>
+        <year>2024</year>
+          <pub-dates>
+            <date>7</date>
+          </pub-dates>
+      </dates>
+      <volume>34</volume>
+      <pages>R640-R662</pages>
+      <issue>13</issue>
+      <electronic-resource-num>10.1016&#x2F;j.cub.2024.05.008</electronic-resource-num>
+      <periodical><full-title>Current Biology</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1jXM9OikpE6F2AdCyBVm0zjJAhBJs4aKvROTp_LKiy0U&#x2F;edit?usp&#x3D;drive_link</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Yan, Peipei
+          </author>
+          <author>
+            Liu, Huicong
+          </author>
+          <author>
+            Zhou, Tao
+          </author>
+          <author>
+            Sun, Pu
+          </author>
+          <author>
+            Wang, Yilin
+          </author>
+          <author>
+            Wang, Xibin
+          </author>
+          <author>
+            Zhang, Lin
+          </author>
+          <author>
+            Wang, Tian
+          </author>
+          <author>
+            Dong, Jing
+          </author>
+          <author>
+            Zhu, Jiangli
+          </author>
+          <author>
+            Lv, Luxian
+          </author>
+          <author>
+            Li, Wenqiang
+          </author>
+          <author>
+            Qi, Shiqian
+          </author>
+          <author>
+            Liang, Yinming
+          </author>
+          <author>
+            Kong, Eryan
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Crosstalk of Synapsin1 palmitoylation and phosphorylation controls the dynamicity of synaptic vesicles in neurons</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>13</volume>
+      <pages>786</pages>
+      <issue>9</issue>
+      <electronic-resource-num>10.1038&#x2F;s41419-022-05235-4</electronic-resource-num>
+      <abstract>&lt;p&gt;The dynamics of synaptic vesicles (SVs) within presynaptic domains are tightly controlled by synapsin1 phosphorylation; however, the mechanism underlying the anchoring of synapsin1 with F-actin or SVs is not yet fully understood. Here, we found that Syn1 is modified with protein palmitoylation, and examining the roles of Syn1 palmitoylation in neurons led us to uncover that Syn1 palmitoylation is negatively regulated by its phosphorylation; together, they manipulate the clustering and redistribution of SVs. Using the combined approaches of electron microscopy and genetics, we revealed that Syn1 palmitoylation is vital for its binding with F-actin but not SVs. Inhibition of Syn1 palmitoylation causes defects in SVs clustering and a reduced number of total SVs in vivo. We propose a model in which SVs redistribution is triggered by upregulated Syn1 phosphorylation and downregulated Syn1 palmitoylation, and they reversibly promote SVs clustering. The crosstalk of Syn1 palmitoylation and phosphorylation thereby bidirectionally manipulates SVs dynamics in neurons.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Cell Death &amp; Disease</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1pbuOWLJPcxUHDLM24uPRqlRPTi_Goc842G7gxmxg4D0&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Christensen, Nikolaj Riis
+          </author>
+          <author>
+            Pedersen, Christian Parsbæk
+          </author>
+          <author>
+            Sereikaite, Vita
+          </author>
+          <author>
+            Pedersen, Jannik Nedergaard
+          </author>
+          <author>
+            Vistrup-Parry, Maria
+          </author>
+          <author>
+            Sørensen, Andreas Toft
+          </author>
+          <author>
+            Otzen, Daniel
+          </author>
+          <author>
+            Teilum, Kaare
+          </author>
+          <author>
+            Madsen, Kenneth Lindegaard
+          </author>
+          <author>
+            Strømgaard, Kristian
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Bidirectional protein–protein interactions control liquid–liquid phase separation of PSD-95 and its interaction partners</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>2</date>
+          </pub-dates>
+      </dates>
+      <volume>25</volume>
+      <pages>103808</pages>
+      <issue>2</issue>
+      <electronic-resource-num>10.1016&#x2F;j.isci.2022.103808</electronic-resource-num>
+      <periodical><full-title>iScience</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;18oaG1V8VH_lLKe3Y6m_8Fg0vkU4Ki22R8ovI5ZtjlDM&#x2F;edit?usp&#x3D;drive_link</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Xiang, Li
+          </author>
+          <author>
+            Zhang, Jiawen
+          </author>
+          <author>
+            Wang, Wenda
+          </author>
+          <author>
+            Gong, Lu
+          </author>
+          <author>
+            Zhang, Ling
+          </author>
+          <author>
+            Yan, Bin
+          </author>
+          <author>
+            Zeng, Hongbo
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Nanomechanics of π-cation-π interaction with implications for bio-inspired wet adhesion</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>117</volume>
+      <pages>294-301</pages>
+      <electronic-resource-num>10.1016&#x2F;j.actbio.2020.09.043</electronic-resource-num>
+      <periodical><full-title>Acta Biomaterialia</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1RGgOpcs15b7r6tk1zq3E_GP0-OAsZHssO-X4XN1A8is&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Fan, Hailong
+          </author>
+          <author>
+            Wang, Jiahui
+          </author>
+          <author>
+            Tao, Zhen
+          </author>
+          <author>
+            Huang, Junchao
+          </author>
+          <author>
+            Rao, Ping
+          </author>
+          <author>
+            Kurokawa, Takayuki
+          </author>
+          <author>
+            Gong, Jian Ping
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Adjacent cationic–aromatic sequences yield strong electrostatic adhesion of hydrogels in seawater</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>10</volume>
+      <pages>5127</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41467-019-13171-9</electronic-resource-num>
+      <abstract>&lt;p&gt;Electrostatic interaction is strong but usually diminishes in high ionic-strength environments. Biosystems can use this interaction through adjacent cationic–aromatic amino acids sequence of proteins even in a saline medium. Application of such specific sequence to the development of cationic polymer materials adhesive to negatively charged surfaces in saline environments is challenging due to the difficulty in controlling the copolymer sequences. Here, we discover that copolymers with adjacent cation–aromatic sequences can be synthesized through cation–π complex-aided free-radical polymerization. Sequence controlled hydrogels from diverse cation&#x2F;aromatic monomers exhibit fast, strong but reversible adhesion to negatively charged surfaces in seawater. Aromatics on copolymers are found to enhance the electrostatic interactions of their adjacent cationic residues to the counter surfaces, even in a high ionic-strength medium that screens the electrostatic interaction for common polyelectrolytes. This work opens a pathway to develop adhesives using saline water.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Nature Communications</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1NCTHyJ3_5sm2Z_1048OH4SMlYrZ0Qsl-1JgTO04Lchs&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Fan, Hailong
+          </author>
+          <author>
+            Guo, Honglei
+          </author>
+          <author>
+            Wang, Jiahui
+          </author>
+          <author>
+            Gong, Jian Ping
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Competitive cation−π interactions between small cations and polycations with phenyl groups in poly(cation−π) hydrogels</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+          <pub-dates>
+            <date>3</date>
+          </pub-dates>
+      </dates>
+      <volume>1</volume>
+      <pages>100005</pages>
+      <electronic-resource-num>10.1016&#x2F;j.giant.2020.100005</electronic-resource-num>
+      <periodical><full-title>Giant</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1hUi0JSLn6WMKPqLAsJtdfVdGg9PTxCLpwRW2V9vwgPc&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Arias, Sandra
+          </author>
+          <author>
+            Freire, Félix
+          </author>
+          <author>
+            Quiñoá, Emilio
+          </author>
+          <author>
+            Riguera, Ricardo
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The leading role of cation–π interactions in polymer chemistry: the control of the helical sense in solution</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+      </dates>
+      <volume>6</volume>
+      <pages>4725-4733</pages>
+      <issue>26</issue>
+      <electronic-resource-num>10.1039&#x2F;C5PY00587F</electronic-resource-num>
+      <abstract>&lt;p&gt; Cation–π interactions determine the helical sense adopted by a polyphenylacetylene bearing ( &lt;italic&gt;R&lt;&#x2F;italic&gt; )-α-methoxy-α-phenylacetamide as a pendant group (poly- &lt;bold&gt;1&lt;&#x2F;bold&gt; ). &lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Polymer Chemistry</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1jDwLO0pZYMUf66NampJNIuYKt30WwnTbUPcz7F6eoak&#x2F;edit?usp&#x3D;drive_link</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Klink, B. U.
+          </author>
+          <author>
+            Alavizargar, A.
+          </author>
+          <author>
+            Kalyankumar, K. S.
+          </author>
+          <author>
+            Chen, M.
+          </author>
+          <author>
+            Heuer, A.
+          </author>
+          <author>
+            Gatsogiannis, C.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Structural basis of α-latrotoxin transition to a cation-selective pore</title>
+      </titles>
+      <dates>
+        <year>2024</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>15</volume>
+      <pages>8551</pages>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41467-024-52635-5</electronic-resource-num>
+      <abstract>&lt;p&gt; The potent neurotoxic venom of the black widow spider contains a cocktail of seven phylum-specific latrotoxins (LTXs), but only one, α-LTX, targets vertebrates. This 130 kDa toxin binds to receptors at presynaptic nerve terminals and triggers a massive release of neurotransmitters. It is widely accepted that LTXs tetramerize and insert into the presynaptic membrane, thereby forming Ca &lt;sup&gt;2+&lt;&#x2F;sup&gt; -conductive pores, but the underlying mechanism remains poorly understood. LTXs are homologous and consist of an N-terminal region with three distinct domains, along with a C-terminal domain containing up to 22 consecutive ankyrin repeats. Here we report cryoEM structures of the vertebrate-specific α-LTX tetramer in its prepore and pore state. Our structures, in combination with AlphaFold2-based structural modeling and molecular dynamics simulations, reveal dramatic conformational changes in the N-terminal region of the complex. Four distinct helical bundles rearrange and together form a highly stable, 15 nm long, cation-impermeable coiled-coil stalk. This stalk, in turn, positions an N-terminal pair of helices within the membrane, thereby enabling the assembly of a cation-permeable channel. Taken together, these data give insight into a unique mechanism for membrane insertion and channel formation, characteristic of the LTX family, and provide the necessary framework for advancing novel therapeutics and biotechnological applications. &lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Nature Communications</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1paxfR31gk_qX9vZZP16tBvMAubyyl7ZsDaDtWbQU6Z8&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Denker, Annette
+          </author>
+          <author>
+            Kröhnert, Katharina
+          </author>
+          <author>
+            Bückers, Johanna
+          </author>
+          <author>
+            Neher, Erwin
+          </author>
+          <author>
+            Rizzoli, Silvio O.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The reserve pool of synaptic vesicles acts as a buffer for proteins involved in synaptic vesicle recycling</title>
+      </titles>
+      <dates>
+        <year>2011</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>108</volume>
+      <pages>17183-17188</pages>
+      <issue>41</issue>
+      <electronic-resource-num>10.1073&#x2F;pnas.1112690108</electronic-resource-num>
+      <abstract>&lt;p&gt;Presynaptic nerve terminals contain between several hundred vesicles (for example in small CNS synapses) and several tens of thousands (as in neuromuscular junctions). Although it has long been assumed that such high numbers of vesicles are required to sustain neurotransmission during conditions of high demand, we found that activity in vivo requires the recycling of only a few percent of the vesicles. However, the maintenance of large amounts of reserve vesicles in many evolutionarily distinct species suggests that they are relevant for synaptic function. We suggest here that these vesicles constitute buffers for soluble accessory proteins involved in vesicle recycling, preventing their loss into the axon. Supporting this hypothesis, we found that vesicle clusters contain a large variety of proteins needed for vesicle recycling, but without an obvious function within the clusters. Disrupting the clusters by application of black widow spider venom resulted in the diffusion of numerous soluble proteins into the axons. Prolonged stimulation and ionomycin application had a similar effect, suggesting that calcium influx causes the unbinding of soluble proteins from vesicles. Confirming this hypothesis, we found that isolated synaptic vesicles in vitro sequestered soluble proteins from the cytosol in a process that was inhibited by calcium addition. We conclude that the reserve vesicles support neurotransmission indirectly, ensuring that soluble recycling proteins are delivered upon demand during synaptic activity.&lt;&#x2F;p&gt;</abstract>
+      <periodical><full-title>Proceedings of the National Academy of Sciences</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;13gioootICR3MgteFQjk_dKFKeO3p6JXrMPB9t76c5Nk&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Dinadayalane, Tandabany C.
+          </author>
+          <author>
+            Hassan, Ayorinde
+          </author>
+          <author>
+            Leszczynski, Jerzy
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>A theoretical study of cation--π interactions: Li+, Na+, K+, Be2+, Mg2+ and Ca2+ complexation with mono- and bicyclic ring-fused benzene derivatives</title>
+      </titles>
+      <dates>
+        <year>2012</year>
+          <pub-dates>
+            <date>3</date>
+          </pub-dates>
+      </dates>
+      <volume>131</volume>
+      <pages>1131</pages>
+      <issue>3</issue>
+      <electronic-resource-num>10.1007&#x2F;s00214-012-1131-0</electronic-resource-num>
+      <periodical><full-title>Theoretical Chemistry Accounts</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1JEKNCo3ZJ4UOdynFWKU8Ou6jNSjWp2O0jUy0E21ayAk&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
   </records>
 </xml>
