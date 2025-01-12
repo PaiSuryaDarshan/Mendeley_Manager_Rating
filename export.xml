@@ -1291,5 +1291,74 @@
         </related-urls>
       </urls>
     </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Dougherty, Dennis A.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The Cation−π Interaction</title>
+      </titles>
+      <dates>
+        <year>2013</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>46</volume>
+      <pages>885-893</pages>
+      <issue>4</issue>
+      <electronic-resource-num>10.1021&#x2F;ar300265y</electronic-resource-num>
+      <periodical><full-title>Accounts of Chemical Research</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1uxpg3cDKT7GKj8EqPyg98i0Tf-PMEzCOl3yPsjeqZyA&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Hazra, Milan Kumar
+          </author>
+          <author>
+            Levy, Yaakov
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Cross-Talk of Cation−π Interactions with Electrostatic and Aromatic Interactions: A Salt-Dependent Trade-off in Biomolecular Condensates</title>
+      </titles>
+      <dates>
+        <year>2023</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>14</volume>
+      <pages>8460-8469</pages>
+      <issue>38</issue>
+      <electronic-resource-num>10.1021&#x2F;acs.jpclett.3c01642</electronic-resource-num>
+      <periodical><full-title>The Journal of Physical Chemistry Letters</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1lGvvKb1o_lHriMG1-_yOgFuX6x4SMCHnC5qk_waXFG4&#x2F;edit?usp&#x3D;sharing</url>
+        </related-urls>
+      </urls>
+    </record>
   </records>
 </xml>
